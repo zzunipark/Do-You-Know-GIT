@@ -26,7 +26,7 @@
         }
 
         .question {
-          animation: hi 1.5s linear -0.5s infinite;
+          animation: question 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
         }
