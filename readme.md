@@ -16,6 +16,3 @@
 Do you know GIT 은 Git에 대해 학습할 수 있는 프로그램입니다.
 
 <br />
-
-#### License
-Do you know GIT 프로젝트에는 <a href="https://github.com/zzunipark/Do-You-Know-GIT/blob/main/LICENSE">MIT 라이선스</a>가 적용되어 있습니다.
