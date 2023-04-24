@@ -15,4 +15,8 @@
 
 Do you know GIT 은 Git에 대해 학습할 수 있는 프로그램입니다.
 
-<br />
+### 💻 Used Languages
+- &nbsp; Clang
+
+### 📄 License
+- &nbsp; <a href="https://github.com/zzunipark/Do-You-Know-GIT/blob/main/LICENSE">MIT License</a> has applied to this repository.
