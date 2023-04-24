@@ -44,7 +44,7 @@
       </style>
 
       <div class="container">
-        <h1>Do you know</h1><h1 class="gitcolor"> GIT</h1><h1><div class="question">❓</div></h1>
+        <h1>Do you know GIT<div class="question">❓</div></h1>
       </div>
     </div>
   </foreignObject>
