@@ -5,8 +5,10 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/github/languages/count/zzunipark/Do-You-Know-GIT">
   <img src="https://img.shields.io/github/license/zzunipark/Do-You-Know-GIT"/>
   <img src="https://img.shields.io/github/commit-activity/w/zzunipark/Do-You-Know-GIT?color=%23green&link=#"/>
+  <img src="https://img.shields.io/github/stars/zzunipark/Do-You-Know-GIT?color=yellow">
 </div>
 
 #
