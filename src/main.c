@@ -12,7 +12,7 @@ void git_help(char *input) {
 
     if (strcmp(input, "git help") == 0) {
         printf("%1000s", ascii_art);
-        printf("\n두유노깃? 깃에 대해 알게 해드릴게요!\n\ngit [-v | --version] - 사용자의 PC에 설치된 git의 버전을 확인할 수 있는 명령어입니다.\n\n");
+        printf("\n두유노깃? 깃에 대해 알게 해드릴게요!\n\ngit [-v | --version] - 사용자의 PC에 설치된 git의 버전을 확인할 수 있는 명령어입니다. 더 자세히 알아보고 싶으시다면, whatis -v 명령어를 입력해주세요.\ngit [\n\n");
     } else {
         printf("잘못된 명령어입니다.\n");
     }
