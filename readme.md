@@ -22,6 +22,15 @@
 
 Do you know GIT 은 Git에 대해 학습할 수 있는 프로그램입니다.
 
+### 💫 Getting Started
+```
+# Clone Project
+$ git clone https://github.com/zzunipark/Do-You-Know-GIT.git
+
+# Run Project
+$ cd "folder directory located main.c" && gcc main.c -o main && "folder directory located main.c"main
+```
+
 ### 💻 Used Languages
 - &nbsp; Clang
 
