@@ -22,6 +22,9 @@
 
 Do you know GIT 은 Git에 대해 학습할 수 있는 프로그램입니다.
 
+# Getting Started
+- ..
+
 ### 💻 Used Languages
 - &nbsp; Clang
 
