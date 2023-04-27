@@ -59,7 +59,7 @@ void run_command(char *input) {
 int main() {
     char input[100];
 
-    // printf("\33c\e[3J");
+    printf("\33c\e[3J");
     printf(
         "%sWelcome to Do you know GIT 0.1.1 Alpha%s\n"
         "\n"
