@@ -81,7 +81,7 @@ int main() {
     printf(
         "%sWelcome to Do you know GIT 0.1.1 Alpha%s\n"
         "\n"
-        "  * Documentation: %shttps://github.com/zzunipark/Do-You-Know-GIT/main/.github/documentation.md%s\n"
+        "  * Documentation: %shttps://github.com/zzunipark/Do-You-Know-GIT/blob/main/.github/documentation.md%s\n"
         "  * Report Issues : %shttps://github.com/zzunipark/Do-You-Know-GIT/issues%s\n"
         "  * Do you know GIT 0.1.1 Alpha version is an experimental version, and not all features may work perfectly.\n"
         "  * By using this software, you are considered to have agreed to the MIT License.\n"
@@ -90,7 +90,7 @@ int main() {
         "\n", COLOR_GREEN, COLOR_RESET, COLOR_ORANGE, COLOR_RESET, COLOR_ORANGE, COLOR_RESET
     );
     while (1) {
-        printf("%sroot@doyouknowgit : %s", COLOR_GREEN, COLOR_RESET);
+        printf("%sroot@do-you-know-git : %s", COLOR_GREEN, COLOR_RESET);
         fgets(input, 100, stdin);
         input[strlen(input)-1] = '\0';
 
