@@ -20,7 +20,9 @@
 <br />
 <br />
 
-Do you know GIT 은 Git에 대해 학습할 수 있는 프로그램입니다.
+Do you know GIT 은 터미널 환경에 익숙해지는 동시에 Git에 대해 학습할 수 있는 프로그램입니다.<br />
+최대한 Debian 계열의 운영체제 느낌이 나도록 디자인 해보았습니다.<br />
+몇몇 명령어는 실제 Linux 운영체제에서 영감을 받아 작성하였습니다.<br />
 
 ### 💫 Getting Started
 ```
